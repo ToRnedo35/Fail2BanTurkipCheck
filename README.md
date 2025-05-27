@@ -21,5 +21,5 @@ Bu betik, Fail2Ban tarafından banlanmış IP adreslerinden Türkiye IP bloklar�
 1. **Projeyi Klonlayın veya Dosyaları Edinin:**
 
 ```bash
-git clone https://github.com/ToRnedo35/Fail2BanTurkipCheck.git
+git clone https://github.com/ToRnedo35/TurkipCheck.git
 cd TurkipCheck
