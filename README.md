@@ -1,6 +1,6 @@
 # Fail2Ban IP Kontrol ve Log Taraması Aracı
 
-Bu betik, Fail2Ban tarafından banlanmış IP adreslerinden Türkiye IP bloklarına denk gelenleri tespit eder ve bu IP'lerin sistem loglarında hangi izleri bıraktığını otomatik olarak analiz eder.
+Bu betik, Fail2Ban tarafından banlanmış IP adreslerinden Türkiye IP bloklarına denk gelenleri tespit eder ve bu IP'lerin sistem loglarında hangi izleri bıraktığını otomatik olarak analiz eder. IP adresi gerçekten saldırgan mı yoksa filtrenize takılan bir müşteri adresi mi bunu kontrol edebilirsiniz.
 
 ## Özellikler
 
