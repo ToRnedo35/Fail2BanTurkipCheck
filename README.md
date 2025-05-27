@@ -23,3 +23,4 @@ Bu betik, Fail2Ban tarafından banlanmış IP adreslerinden Türkiye IP bloklar�
 ```bash
 git clone https://github.com/ToRnedo35/Fail2BanTurkipCheck.git
 cd Fail2BanTurkipCheck
+python3 ban_kontrol.py
